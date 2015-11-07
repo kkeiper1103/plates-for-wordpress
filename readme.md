@@ -41,3 +41,9 @@ __single.php__
 
 * I eventually plan to add more providers for common templating libraries, such as Twig
 * Testcases to make sure it doesn't interfere with default themes
+
+## Miscellaneous
+
+Huge shoutout to [@reinink](https://twitter.com/reinink) for the [league/plates](http://platesphp.com) package, and to [@philipobenito](https://twitter.com/philipobenito) for the [league/container](http://container.thephpleague.com/) package.
+
+Use those packages. :) Seriously. The League is Awesome.
