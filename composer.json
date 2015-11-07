@@ -1,0 +1,23 @@
+{
+    "name": "kkeiper1103/foundry",
+    "description": "A Library that adds some good features to WordPress Themes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Keiper",
+            "email": "kkeiper1103@gmail.com"
+        }
+    ],
+    "require": {
+        "league/container": "^2.0",
+        "league/plates": "^3.1"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "kkeiper1103\\PlatesForWordPress\\": "src/"
+        }
+    }
+}
